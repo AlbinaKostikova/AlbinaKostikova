@@ -1,6 +1,7 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff79c6&icon_color=ff79c6&text_color=ffffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbinaKostikova&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff79c6&icon_color=ff79c6&text_color=ffffff" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=ffffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinaKostikova&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=ffffff" />
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
