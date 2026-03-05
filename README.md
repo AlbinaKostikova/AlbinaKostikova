@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/Python-313131?style=for-the-badge&logo=python&logoColor=3776AB&height=35" height="35" alt="Python">
   <img src="https://img.shields.io/badge/PostgreSQL-313131?style=for-the-badge&logo=postgresql&logoColor=4169E1&height=35" height="35" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-313131?style=for-the-badge&logo=mysql&logoColor=4479A1&height=35" height="35" alt="MySQL">
-  <img src="https://img.shields.io/badge/GraphQL-313131?style=for-the-badge&logo=graphql&logoColor=E10098&height=35" height="35" alt="GraphQL">
   <img src="https://img.shields.io/badge/REST_API-313131?style=for-the-badge&logo=api&logoColor=0096D6&height=35" height="35" alt="REST API">
 </div>
 
