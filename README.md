@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/React-313131?style=for-the-badge&logo=react&logoColor=61DAFB&height=35" height="35" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-313131?style=for-the-badge&logo=vue.js&logoColor=4FC08D&height=35" height="35" alt="Vue.js">
   <img src="https://img.shields.io/badge/Next.js-313131?style=for-the-badge&logo=next.js&logoColor=white&height=35" height="35" alt="Next.js">
-  <img src="https://img.shields.io/badge/Nuxt.js-313131?style=for-the-badge&logo=nuxt.js&logoColor=00DC82&height=35" height="35" alt="Nuxt.js">
   <img src="https://img.shields.io/badge/Zustand-313131?style=for-the-badge&logo=zustand&logoColor=white&height=35" height="35" alt="Zustand">
 </div>
 
@@ -52,7 +51,6 @@
   <img src="https://img.shields.io/badge/Node.js-313131?style=for-the-badge&logo=node.js&logoColor=339933&height=35" height="35" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-313131?style=for-the-badge&logo=express&logoColor=white&height=35" height="35" alt="Express">
   <img src="https://img.shields.io/badge/Python-313131?style=for-the-badge&logo=python&logoColor=3776AB&height=35" height="35" alt="Python">
-  <img src="https://img.shields.io/badge/Django-313131?style=for-the-badge&logo=django&logoColor=092E20&height=35" height="35" alt="Django">
   <img src="https://img.shields.io/badge/PostgreSQL-313131?style=for-the-badge&logo=postgresql&logoColor=4169E1&height=35" height="35" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-313131?style=for-the-badge&logo=mysql&logoColor=4479A1&height=35" height="35" alt="MySQL">
   <img src="https://img.shields.io/badge/GraphQL-313131?style=for-the-badge&logo=graphql&logoColor=E10098&height=35" height="35" alt="GraphQL">
